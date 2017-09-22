@@ -60,8 +60,10 @@
         document.addEventListener("deviceready", onDeviceReady, false);
         function onDeviceReady() {
             // Now safe to use the Codova API
-            window.open = cordova.InAppBrowser.open;
-            window.open("http://orectiq.in/bookstore/"); }
+            cordova.InAppBrowser.open('http://orectiq.in/bookstore/','_self')
+
+
+     }
     </script>
 
 </body>
