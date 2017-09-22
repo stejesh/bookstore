@@ -1,12 +1,12 @@
 {
   "name": "Bookstore App",
   "version": "4.0.3",
-  "description": "> Book Store App",
+  "description": "> OLSBooks is a wonderful book app!",
   "repository": {
     "type": "git",
     "url": "https://github.com/phonegap/phonegap-app-hello-world.git"
   },
-  "author": "PhoneGap Team",
+  "author": "Orectiq Team",
   "license": "Apache-2.0",
   "keywords": [
     "ecosystem:phonegap",
@@ -15,7 +15,7 @@
     "phonegap:template"
   ],
   "bugs": {
-    "url": "https://github.com/phonegap/phonegap-app-hello-world/issues"
+    "url": "http://orectiq.in"
   },
-  "homepage": "https://github.com/phonegap/phonegap-app-hello-world"
+  "homepage": "http://orectiq.in"
 }
