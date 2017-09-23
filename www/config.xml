@@ -27,7 +27,8 @@
     <!-- Define a specific version of PhoneGap to build into your app. -->
     <!-- <preference name="phonegap-version"       value="cli-6.0.0" /> -->
 
-    <preference name="SplashScreen" value="screen"/>
+    <preference name="orientation" value="all" />
+    <preference name="SplashScreen" value="www/res/screen/android"/>
     <!--<splash src="splash.png" />-->
     <preference name="SplashScreenDelay" value="8000" />
     <preference name="AutoHideSplashScreen" value="true" />
