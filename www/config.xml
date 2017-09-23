@@ -27,6 +27,11 @@
     <!-- Define a specific version of PhoneGap to build into your app. -->
     <!-- <preference name="phonegap-version"       value="cli-6.0.0" /> -->
 
+    <preference name="SplashScreen" value="screen"/>
+    <splash src="splash.png" />
+    <preference name="SplashScreenDelay" value="8000" />
+
+
     <!-- Plugins -->
     <!-- Core plugins -->
     <plugin name="cordova-plugin-battery-status"      source="npm" spec="~1.1.1" />
@@ -138,8 +143,6 @@
     </platform>
 
 
-    <splash src="splash.png" />
-    <preference name="SplashScreenDelay" value="8000" />
     <!--
         Define access to external domains.
 
