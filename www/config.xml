@@ -137,7 +137,7 @@
         <splash src="www/res/screen/windows/SplashScreenPhone.scale-240.png" platform="windows"   width="1152" height="1920" />
     </platform>
 
-    <preference name="SplashScreenDelay" value="5000" />
+    <preference name="SplashScreenDelay" value="8000" />
     <!--
         Define access to external domains.
 

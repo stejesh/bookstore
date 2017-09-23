@@ -61,7 +61,7 @@
         function onDeviceReady() {
             // Now safe to use the Codova API
 
-            inAppBrowserRef = cordova.InAppBrowser.open('http://orectiq.in/mbookstore/index.php?page=register&action=register','_self')
+            inAppBrowserRef = cordova.InAppBrowser.open('http://orectiq.in/mbookstore/','_self')
 
             inAppBrowserRef.addEventListener('loadstart', loadStartCallBack);
 
