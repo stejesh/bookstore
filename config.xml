@@ -29,7 +29,7 @@
 
     <preference name="orientation" value="all" />
     <preference name="SplashScreen" value="www/res/screen/android"/>
-    <!--<splash src="splash.png" />-->
+    <splash src="splash.png" />
     <preference name="SplashScreenDelay" value="8000" />
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="SplashMaintainAspectRatio" value="true" />
