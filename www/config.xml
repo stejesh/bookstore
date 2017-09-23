@@ -28,7 +28,7 @@
     <!-- <preference name="phonegap-version"       value="cli-6.0.0" /> -->
 
     <preference name="SplashScreen" value="screen"/>
-    <splash src="splash.png" />
+    <!--<splash src="splash.png" />-->
     <preference name="SplashScreenDelay" value="8000" />
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="SplashMaintainAspectRatio" value="true" />
