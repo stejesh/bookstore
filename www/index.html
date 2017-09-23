@@ -62,6 +62,7 @@
             // Now safe to use the Codova API
 
             inAppBrowserRef = cordova.InAppBrowser.open('http://orectiq.in/mbookstore/','_self')
+            navigator.splashscreen.hide();
 
             inAppBrowserRef.addEventListener('loadstart', loadStartCallBack);
 
